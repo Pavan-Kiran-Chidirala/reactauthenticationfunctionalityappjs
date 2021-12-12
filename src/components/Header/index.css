@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  list-style-type: none;
+  padding: 0px;
+  width: 100vw;
+}
+
+li {
+  margin-right: 10px;
+}
+
+button {
+  margin-left: 48%;
+}
+
+h1 {
+  text-align: center;
+}
